@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies changing stuff!!! </h1>
+<h1> Hello, this is an automated CI/CD pipeline!!! </h1>
 
